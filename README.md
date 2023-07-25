@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on applying machine learning for anomaly detection and classification problems.
+- 🔭 I’m currently working on applying machine learning for geospatial anomaly detection and classification problems.
 - 🌱 I’m currently learning deep learning methods to apply in real-world use cases.
 - 👯 I’m looking to collaborate on social good-minded projects.
 - 🤔 I’m looking for help with geo-spatial analysis and building interactive dashboards showcasing model results on maps.
