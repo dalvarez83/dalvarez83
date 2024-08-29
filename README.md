@@ -1,3 +1,10 @@
+# Daniel Álvarez, MPA, FRM
+New York, NY USA
+[LinkedIn](https://www.linkedin.com/in/daniel---alvarez/)
+a l v a r e z (dot) d a (at) g m a i l (dot) c o m
+
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on applying machine learning for geospatial anomaly detection and classification problems.
