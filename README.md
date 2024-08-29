@@ -23,6 +23,11 @@ Provide technical assistance in data science and artificial intelligence to UNIC
 requirements. Provide technical support for Data Science and Artificial Intelligence call for
 submissions, reviewing submissions to UNICEF Venture Fund. 
 
+### [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/) detailed to the US Geological Survey
+`Data Strategy Specialist`
+_April 2023 - February 2024_
+
+Presidential Innovation Fellow detailed to the US Geological Survey (USGS) Energy and Minerals Resources Mission Area supporting mission-critical data strategy objectives around Presidential Administration priorities. Develop data strategies and methods to support activities of the Energy and Minerals Resources Mission Area. Collaborate on data management and data science efforts with internal stakeholders across the Minerals Resources Program and Energy Resources Program. Main projects included leading modernization of data project workflows by making scientific data more accessible and useful to USGS science researchers and the broader public, supporting USGS staff in the evaluation of proposals for the Critical Minerals Assessment using AI Support Challenge and integrating outputs into USGS infrastructure, and developing strategies with senior USGS staff on improving the management and delivery of geochemistry and geophysical data for the Earth Mapping Resources survey initiative.	
 
 - 🔭 I’m currently working on applying machine learning for geospatial anomaly detection and classification problems.
 - 🌱 I’m currently learning deep learning methods to apply in real-world use cases.
