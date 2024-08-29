@@ -66,13 +66,13 @@ _July 2009 - June 2013_
 Executed mission-critical deliverables as a function of the Federal Reserve Bank of New York’s safety and soundness objective. Performed counterparty credit risk assessments of regulated financial institutions and validated loss estimates to ensure alignment with risk standards. Led the Supervisory Modeling Team efforts to produce counterparty credit risk loss estimates for the Comprehensive Capital Analysis and Review (CCAR) systemwide stress-testing exercise. Contributed to regulatory examinations at systemically-important financial institutions on key credit and counterparty risks. 
 
 ## Education
-**School of Information, University of California**, Berkeley, CA
+**School of Information, University of California**, Berkeley, CA  
 Master of Information and Data Science  
 
-**School of International and Public Affairs, Columbia University**, New York, NY
+**School of International and Public Affairs, Columbia University**, New York, NY  
 Master of Public Administration, Advanced Policy and Economic Analysis    
 
-**Brown University**, Providence, RI
+**Brown University**, Providence, RI  
 Bachelor of Arts, Economics and International Relations
 
 
