@@ -65,12 +65,14 @@ _July 2009 - June 2013_
 
 Executed mission-critical deliverables as a function of the Federal Reserve Bank of New York’s safety and soundness objective. Performed counterparty credit risk assessments of regulated financial institutions and validated loss estimates to ensure alignment with risk standards. Led the Supervisory Modeling Team efforts to produce counterparty credit risk loss estimates for the Comprehensive Capital Analysis and Review (CCAR) systemwide stress-testing exercise. Contributed to regulatory examinations at systemically-important financial institutions on key credit and counterparty risks. 
 
-- 🔭 I’m currently working on applying machine learning for geospatial anomaly detection and classification problems.
-- 🌱 I’m currently learning deep learning methods to apply in real-world use cases.
-- 👯 I’m looking to collaborate on social good-minded projects.
-- 🤔 I’m looking for help with geo-spatial analysis and building interactive dashboards showcasing model results on maps.
-- 💬 Ask me about statistical inference, R 
-- 📫 How to reach me: [through Linked-in profile](https://www.linkedin.com/in/daniel---alvarez/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I find good comedy to be great way to relieve stress. I also speak a few human languages.
+## Education
+**School of Information, University of California**, Berkeley, CA
+Master of Information and Data Science  
+
+**School of International and Public Affairs, Columbia University**, New York, NY
+Master of Public Administration, Advanced Policy and Economic Analysis    
+
+**Brown University**, Providence, RI
+Bachelor of Arts, Economics and International Relations
+
 
