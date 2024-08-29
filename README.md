@@ -1,6 +1,6 @@
 # Daniel Álvarez, MPA, FRM
-New York, NY USA
-[LinkedIn](https://www.linkedin.com/in/daniel---alvarez/)
+New York, NY USA  
+[LinkedIn](https://www.linkedin.com/in/daniel---alvarez/)  
 a l v a r e z (dot) d a (at) g m a i l (dot) c o m
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
