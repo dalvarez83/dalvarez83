@@ -17,7 +17,7 @@ Provide technical assistance to ideate, scope, develop and support implementatio
 
 ### UNICEF, Office of Innovation - Venture Fund
 `Data Science & Artificial Intelligence Mentor`  
-_October 2021 - March 2024_
+_October 2021 - March 2024_ (Part Time)
 
 Provide technical assistance in data science and artificial intelligence to UNICEF Venture Fund investments (start-up companies and country offices). Mentor companies one-on-one and provide them with technical advice through monthly calls and remote sprints. Support the Venture Fund in reviewing Data Science and Artificial Intelligence portfolio company repositories and validating they are in line with contractual
 requirements. Provide technical support for Data Science and Artificial Intelligence call for
