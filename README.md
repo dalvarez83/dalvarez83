@@ -23,7 +23,7 @@ Provide technical assistance in data science and artificial intelligence to UNIC
 requirements. Provide technical support for Data Science and Artificial Intelligence call for
 submissions, reviewing submissions to UNICEF Venture Fund. 
 
-### [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/) detailed to the US Geological Survey
+### [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/) - US Geological Survey
 `Data Strategy Specialist`
 _April 2023 - February 2024_
 
