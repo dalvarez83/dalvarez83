@@ -5,8 +5,8 @@ a l v a r e z (dot) d a (at) g m a i l (dot) c o m
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## My mission statement
-I believe that data science can be used for social benefit to discover, diagnose and design responses to real-world problems of public interest. I believe that through collaboration and inclusive design, solutions can be developed to address complex, real-world challenges using data.
+## My mission   
+To use my data science skills for social benefit to discover, diagnose and design responses to real-world problems of public interest. I believe that through collaboration and inclusive design, solutions can be developed to address complex, real-world challenges using data.
 
 ## My current interests
 - I’m currently working on applying machine learning for geospatial anomaly detection and classification problems.
