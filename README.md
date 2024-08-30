@@ -6,11 +6,11 @@ a l v a r e z (dot) d a (at) g m a i l (dot) c o m
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## My mission   
-To use my data science skills for social benefit to discover, diagnose and design responses to real-world problems of public interest. I believe that through collaboration and inclusive design, solutions can be developed to address complex, real-world challenges using data.
+To use my data science skills for social benefit to discover, diagnose and design responses to real-world problems of public interest. I believe that through collaboration and inclusive design, develop solutions to address complex, real-world challenges using data.
 
 ## My current interests
-- I’m currently working on applying machine learning for geospatial anomaly detection and classification problems.
-- I’m currently learning about the application of transformers for real-world use cases.
+- I’m working on applying machine learning for geospatial anomaly detection and classification problems.
+- I’m learning about the application of transformer architecture-based models for real-world use cases.
 - I’m looking to collaborate on social good-minded projects.
 - I’m looking for help with geo-spatial analysis and building interactive dashboards showcasing model results on maps.
 
