@@ -9,10 +9,10 @@ a l v a r e z (dot) d a (at) g m a i l (dot) c o m
 I believe that data science can be used for social benefit to discover, diagnose and design responses to real-world problems of public interest. I believe that through collaboration and inclusive design, solutions can be developed to address complex, real-world challenges using data.
 
 ## My current interests
-- 🔭 I’m currently working on applying machine learning for geospatial anomaly detection and classification problems.
-- 🌱 I’m currently learning about the application of transformers for real-world use cases.
-- 👯 I’m looking to collaborate on social good-minded projects.
-- 🤔 I’m looking for help with geo-spatial analysis and building interactive dashboards showcasing model results on maps.
+- I’m currently working on applying machine learning for geospatial anomaly detection and classification problems.
+- I’m currently learning about the application of transformers for real-world use cases.
+- I’m looking to collaborate on social good-minded projects.
+- I’m looking for help with geo-spatial analysis and building interactive dashboards showcasing model results on maps.
 
 ## Work Experience
 ### UNICEF, Office of Innovation - Frontier Technology Team
