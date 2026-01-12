@@ -19,7 +19,7 @@ To use my data science skills for social benefit to discover, diagnose and desig
 `Innovation Manager/Data Science Lead`  
 _January 2024 - Present_
 
-Provide technical assistance to ideate, scope, develop and support implementation of data science, machine learning and artificial intelligence projects serving UNICEF’s programmatic objectives relating to humanitarian cash transfers, in-kind aid delivery, healthcare delivery, education technology, climate and sanitation. Facilitate and guide startups in developing mature data science applications in support of programmatic objectives with Regional and Country Offices. Support strategic hiring efforts of data science technical specialists and advisors, including all aspects of the candidate selection process.
+Provide technical assistance to ideate, scope, develop and support implementation of data science, machine learning and artificial intelligence projects serving UNICEF’s programmatic objectives relating to humanitarian cash transfers, in-kind aid delivery, healthcare delivery, education technology, climate and sanitation. I also support UNICEF operations, including AI transformations of the UNICEF Supply Division Warehouse. Facilitate and guide startups in developing mature data science applications in support of programmatic objectives with Regional and Country Offices. Support strategic hiring efforts of data science technical specialists and advisors, including all aspects of the candidate selection process.
 
 ### UNICEF, Office of Innovation - Venture Fund
 `Data Science & Artificial Intelligence Mentor`  
